@@ -1,4 +1,4 @@
-#### About me
+#### Hello, world
 
 🙋🏻‍♂️ I'm tech director at [ArtRabbit 🐇](https://www.artrabbit.com). I also do a variety of freelance tech consulting & development work, mostly with my hands in the code.
 
